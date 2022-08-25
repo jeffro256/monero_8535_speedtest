@@ -1,0 +1,4 @@
+[submodule "monero"]
+	path = monero
+	url = https://github.com/jeffro256/monero.git
+	branch = rpc_bin_buf_cp
